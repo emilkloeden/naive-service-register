@@ -1,0 +1,13 @@
+{
+  "name": "naive-service-register",
+  "version": "0.1.0",
+  "description": "Helper class for registering a service using naive-service-registry",
+  "private": false,
+  "main": "index.js",
+  "keywords": [],
+  "author": "Emil Kloeden <emilkloeden@gmail.com> (https://github.com/emilkloeden/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
